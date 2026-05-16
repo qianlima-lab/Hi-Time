@@ -1,0 +1,13 @@
+# Core dependencies
+torch>=2.0.0
+numpy>=1.21.0
+
+# Deep learning
+transformers>=4.30.0
+einops>=0.6.0
+
+# Training utilities
+scikit-learn>=1.0.0
+
+# Optional: for downloading datasets
+# aeon>=0.4.0
