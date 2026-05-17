@@ -8,7 +8,7 @@ Integrating Large Language Models (LLMs) into time series tasks has yielded impr
 
 ## The Model Framework of Hi-Time
 
-![model](model.png)
+![model](model_new.png)
 
 ## Datasets
 
